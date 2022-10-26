@@ -7,8 +7,8 @@ export default function Instructions() {
       }}
     >
       <p className='hidden mb-8 md:block'>
-        This is a minimal starter for Nextjs + Threejs. Click on the cube to
-        navigate to the `/box` page. OrbitControls is enabled by default.
+        This is a minimal concept to get started on the marketplace design.
+        Click on the logo to navigate to the `/boat` page.
       </p>
       <div className='tracking-wider'>
         Step 1 - <span className='text-green-200'>update:</span>
